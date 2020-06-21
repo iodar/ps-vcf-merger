@@ -10,7 +10,7 @@ Unfortunatly you have to use `Powershell 7.0` or later. `Powershell 5.1` does no
 
 ## Usage
 
-1. Download `Get-MergedVcf.ps1` from latest release
+1. Download latest `Get-MergedVcf.ps1` from [release page](https://github.com/iodar/ps-vcf-merger/releases)
 2. Run `.\Get-MergedVcf.ps1 -SourcePath .\path\to\vcf-files -DestinationPath all.vcf`
 3. Use single file to import contacts else where
 
